@@ -3,6 +3,11 @@ const path = require("path");
 
 const $ = xpresser({
   name: 'Netlify Xpresser',
+
+  server: {
+    port: 3000
+  },
+  
   paths: {
     base: path.resolve('xpresser'),
     npm: path.resolve('node_modules'),
