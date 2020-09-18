@@ -25,6 +25,7 @@
     "mysql": "^2.18.1",
     "mysql2": "^2.2.0",
     "mysql3": "^0.4.13",
+    "next": "^9.5.3",
     "xpresser": "^0.2.49"
   },
   "devDependencies": {
