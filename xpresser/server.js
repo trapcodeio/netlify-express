@@ -17,10 +17,10 @@ const $ = xpresser({
   }
 });
 
-$.on.expressInit(next => {
-  $.app.handler = serverless($.app);
-  next()
-})
+// $.on.expressInit(next => {
+//   $.app.handler = serverless($.app);
+//   next()
+// })
 
 // $.logInfo($.$config.get('paths.views'));
 
