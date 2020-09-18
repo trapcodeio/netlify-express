@@ -23,6 +23,8 @@
   "homepage": "https://github.com/neverendingqs/netlify-express#readme",
   "dependencies": {
     "mysql": "^2.18.1",
+    "mysql2": "^2.2.0",
+    "mysql3": "^0.4.13",
     "xpresser": "^0.2.49"
   },
   "devDependencies": {
